@@ -1,7 +1,8 @@
 # AG-Super-Market
  The AG Super Market project is a user-friendly and responsive online platform designed to facilitate seamless grocery shopping for customers. 
  It combination of HTML, CSS, and JavaScript to create an engaging and interactive shopping experience. 
- ![home](https://github.com/ambadas2214/AG-Super-Market/assets/123884024/2511bc32-d985-49e9-862e-42dbe9ef568e)
+![home1](https://github.com/ambadas2214/AG-Super-Market/assets/123884024/d655b671-9dd5-4f0f-ab86-a6b113d36fe8)
+
 
 
  ![features](https://github.com/ambadas2214/AG-Super-Market/assets/123884024/4a3edb0a-09bc-42b8-af26-241911faf19d)
